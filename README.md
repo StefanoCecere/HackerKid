@@ -1,5 +1,5 @@
-# Hacker Kid - conoscere | modificare | crescere 
-il percorso formativo tecnico informatico sociale integrale che tutti avremmo voluto fare da piccoli!
+# Hacker Kid 
+il percorso formativo tecnico informatico sociale integrale che tutti avremmo voluto fare da piccoli, per conoscere, modificare e crescere divertendosi.
 
 100 semplici missioni quotidiane, da comunicare all'alba e verificare alla sera.
 Ogni missione ha una serie di Note e Suggerimenti per introdurre temi nuovi.
