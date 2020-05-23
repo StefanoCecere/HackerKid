@@ -10,7 +10,7 @@ Invogliare i ragazzi ad approfondire alcuni temi che riteniamo importanti: dall'
 con lavori pratici, perché la pratica, il divertimento e la gratificazione sono dei grandi motivatori.
 
 ## Età
-indicativamente dalla 4a elementare alla terza media (9-13).
+indicativamente dalla 4a elementare alla terza media (9-13 anni) anche se abbiamo visto che sono temi interessanti per molti.
 
 ## Temi
 - informatica / digitale
@@ -27,3 +27,9 @@ Ogni missione compiuta bene fa guadagnare 20 punti H.
 Deve poter essere completata in massimo 20 minuti.
 Si può chiedere aiuto a chiunque.
 
+## Collaborare
+Nonostante abbiamo diversi idee a futuro su questi temi, abbiamo deciso di rendere questo un progetto aperto, opensource e accessibile a tutti.
+Se quindi vuoi partecipare e contribuire con idee di nuove missioni o correggere o integrare le attuali, benvenuti!
+
+## Licenza
+per ora tutto è sotto la supervisione e paternità di Stefano Cecere <https://github.com/stefanocecere/>
