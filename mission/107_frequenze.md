@@ -26,4 +26,6 @@ gli Hertz (Hz) sono l'unità di misura della frequenza per quelle cose che hanno
 i suoni sono forme d'onda che "oscillano" con precise frequenze.
 anche la luce ha diverse frequenze. a dir la verità la luce è un'onda elettromagnetica che ci risulta visibile se ha una frequenza all'interno di determinati valori.
 
+![](img/hertz.jpg)
+
 #HackerKid
