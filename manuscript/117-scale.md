@@ -21,4 +21,4 @@ dobbiamo assolutamente sapere quale sarà la frequenza della prossima nota, prim
 
 aiutaci, HackerKid!
 
-![](img/frequenze-misteriose.jpg)
+![](frequenze-misteriose.jpg)

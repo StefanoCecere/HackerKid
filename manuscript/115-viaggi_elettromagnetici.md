@@ -22,4 +22,4 @@ F) via posta elettronica, considerando che ogni ogni 100Km c'è un router che ra
 
 buon viaggio
 
-![](img/velocita.jpg)
+![](velocita.jpg)
